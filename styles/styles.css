@@ -1,0 +1,69 @@
+body{
+  font-family: 'Monsterrat';
+}
+h1{
+  text-align: center;
+  color:grey;
+}
+.caro{
+  background-size: auto;
+  background-image: url(https://image.freepik.com/free-vector/flat-design-world-mental-health-day-background_23-2148641066.jpg);
+}
+
+#features{
+  padding:3%;
+  background-color: #fff3e2;
+}
+
+.feature-box{
+  padding: 5%;
+  text-align:center;
+}
+.f-heading{
+  font-size: 1.5rem;
+  font-weight:bold;
+  color: #000;
+
+}
+.f-para{
+  font-size:1rem;
+  color:grey;
+}
+.icon{
+  margin-bottom: 3%;
+  color: #ffcccc;
+}
+.icon:hover{
+  color:#ff9999;
+}
+
+#steps{
+  padding: 5%;
+  background-color: #ebcfc4;
+}
+.step-box{
+  width:50%;
+  text-align: left;
+  margin: 5% auto 5% auto;
+}
+.reg-img, .draw-img{
+  width:35%;
+  margin:2%;
+}
+.reg-img{
+  float:left;
+  border-radius: 100%;
+}
+.draw-img{
+  float:right;
+  border-radius: 100%;
+}
+.success-img{
+  width:35%;
+  float:left;
+  border-radius: 100%;
+  margin:2%;
+}
+hr{
+  width: 75%;
+}
